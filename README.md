@@ -17,7 +17,7 @@ and automatically (incoming messages).
   - skip-list of languages, with an invert mode ("translate only these")
   - skip messages already written in the same script
 - Per-channel translation states
-- Russian labels for the new settings
+- Russian and English interface in the plugin settings and the chat popup. Choose RU or EN under Interface language. The choice is saved separately from the message translation languages.
 
 Full list: [CHANGES.md](CHANGES.md).
 

@@ -18,7 +18,7 @@ Modified by **FiL**, July 2026.
   - `skipSameScript` — skip messages written in the same script as the target language.
 - Settings-panel UI for all of the above (settings tab + popout).
 - Per-channel translation states (`translationEnabledStates`).
-- Russian labels for the new settings; English labels kept as the default.
+- RU / EN interface selector in the plugin settings and the chat popup (v1.1.0). Russian is the default. The saved preference applies to both menus, context menu actions, and tooltips.
 
 ## Renamed
 
@@ -26,4 +26,4 @@ Modified by **FiL**, July 2026.
   the original plugin and keeps its own settings file.
 
 Everything else (translation engines, language lists, prefixes, exceptions, the BDFDB-based
-architecture and the localisation tables) comes from the original plugin and is unchanged.
+architecture) comes from the original plugin and is unchanged.
